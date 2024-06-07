@@ -1,0 +1,65 @@
+**{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2rem;
+    background-color: rgba(169, 169, 163, 0.693);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1rem;
+
+}
+
+.container{
+    width: 600px;
+    height: auto;
+    display: flex;
+    margin: 50px auto;
+    background-color: #585c68;}
+
+.test-primary{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.highlight{
+    font-weight: bolder;
+    color: cornflowerblue;
+}
+
+img{
+    width: 14rem;
+    height: 10rem;
+}
+
+.title{
+    line-height: 0;
+}
+
+h4{
+    margin-top: 40px;
+}
+
+h2{
+    border: none;
+    border-bottom:  solid gray 1px;
+    line-height: -4px;
+}
+
+.test_left{
+    padding: 20px
+}
+
+.container .test_right{
+    width: 920px;
+    background-color: rgb(221, 216, 222);
+    padding: 25px;
+
+    
+}
+
